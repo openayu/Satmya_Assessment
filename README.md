@@ -1,4 +1,4 @@
-# Satmya_Assessment
+# Satmya (Adaptability) Assessment
 # Autor: OpenAyu
 
 ## ASSESSMENT OF SATMYA (ADAPTABILITY) IN HEALTHY/DISEASED INDIVIDUALS
